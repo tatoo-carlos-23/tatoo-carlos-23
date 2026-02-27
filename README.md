@@ -101,7 +101,7 @@ Experiencia en diseño, construcción y optimización de soluciones tecnológica
 
 # 🛠️ Habilidades Técnicas
 
-### Lenguajes
+### Lenguajes de programación
 TypeScript · JavaScript · Java · PHP
 
 ### Frameworks
