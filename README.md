@@ -102,55 +102,28 @@ Experiencia en diseño, construcción y optimización de soluciones tecnológica
 # 🛠️ Habilidades Técnicas
 
 ### Lenguajes
-- TypeScript
-- JavaScript
-- Java
-- PHP
+TypeScript · JavaScript · Java · PHP
 
 ### Frameworks
-- NestJS
-- Spring Boot
-- Angular
-- Vue
-- Ionic
+NestJS · Spring Boot · Angular · Vue · Ionic
 
 ### Librerías
-- Express
-- React
-- React Native
-- StencilJS
-- Redux
-- Firebase
-- RxJS
+Express · React · React Native · StencilJS · Redux · Firebase · RxJS
 
 ### Bases de Datos
-- MySQL
-- PostgreSQL
-- MongoDB
+MySQL · PostgreSQL · MongoDB
 
 ### Herramientas
-- Git
-- GitFlow
-- Jira
-- Trello
-- Linux
-- GitHub
-- GitLab
-- Bitbucket
+Git · GitFlow · Jira · Trello · Linux · GitHub · GitLab · Bitbucket
 
 ### Testing
-- Karma
-- Jasmine
-- Jest
+Karma · Jasmine · Jest
 
 ### Metodologías
-- Scrum
+Scrum
 
 ### Cloud & DevOps
-- Azure DevOps
-- AWS
-- Docker
-- NGINX
+Azure DevOps · AWS · Docker · NGINX
 
 ### Idiomas
 Español (Nativo) · Inglés (Básico)
