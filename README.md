@@ -153,8 +153,7 @@ Experiencia en diseño, construcción y optimización de soluciones tecnológica
 - NGINX
 
 ### Idiomas
-- Español (Nativo)
-- Inglés (Básico)
+Español (Nativo) · Inglés (Básico)
 
 ---
 
